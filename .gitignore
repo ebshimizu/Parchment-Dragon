@@ -1,0 +1,6 @@
+# Ignore build and pref files
+*.suo
+*.Debug
+*.cachefile
+bin/*
+obj/*
