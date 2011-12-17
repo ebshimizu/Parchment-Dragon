@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ParchmentDragon.Bullet" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAACAAAgAAAACAIAAAABAAQAAAAAQEAAAAAAA=</HashCode>
+      <FileName>Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.Collisions" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collisions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.EBat" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAKEAAAAAAAAAAAAAAgAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies\EBat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.EBfly" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAKEAAAAAAAAAAAAAAgAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies\EBfly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.EEye" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAKEAAAAAAAAAAAAAAgAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies\EEye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.ELion" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAKEAAAAAAAAAAAAAAgAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies\ELion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.ELion2" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAIEAAAAAAAAAAAAAAgAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies\ELion2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.EMiniboss" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAKEAAAAAAAAAAAAAggAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies\EMiniboss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.Enemy" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAwRCIAoAaEACgQgQAqAIAAgBkIEQACDAoAACAAIAIg=</HashCode>
+      <FileName>Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ParchmentDragon.ERock" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAIEAAAAAAAAAAAAAAgAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies\ERock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.ESRock">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAIEAAAAAAAAAAAAAAgAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies\ESRock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.Food" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAEAiAAAAAAIAAAAAQAQAIAAAYAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.FoodList" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAQAAAAAABA=</HashCode>
+      <FileName>FoodList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.ParchmentDragon" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAEAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.Program" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.PlayerCharacter">
+    <Position X="23" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAwAQgIAALACAhSAQEqaIAAGBAIMAJCoEKBAgASQAAQ=</HashCode>
+      <FileName>PlayerCharacter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.GameScreen" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAEACAAARAAgAEEAIAAAAADAAAAA4AAgAGAkYIBAY=</HashCode>
+      <FileName>ScreenManager\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.InputState" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAUAAAAAAAAAAAAAAQAAFYAAAAAEAIAAAEAAAAEA=</HashCode>
+      <FileName>ScreenManager\InputState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.ScreenManager">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAVEAgAAAgAwAAAAAAAAAAAAAAiBAERAAAgAACCEQ=</HashCode>
+      <FileName>ScreenManager\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.BackgroundScreen">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Screens\BackgroundScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.GameplayScreen">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQCEACAEgAAAgAAEECIAAAEgAJAKAIBAAQAAAAAAJw=</HashCode>
+      <FileName>Screens\GameplayScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.LoadingScreen">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAgAAAAAAAAgAAAAAQAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\LoadingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.MainMenuScreen" Collapsed="true">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAiAAAAEAAgAAAAAAAAAAAAAABAAAAAAAIAAAAAQ=</HashCode>
+      <FileName>Screens\MainMenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.MenuEntry" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAABABAAAAAAAAIAABACAQAAAI=</HashCode>
+      <FileName>Screens\MenuEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.MenuScreen" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAACGAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Screens\MenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.MessageBoxScreen">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQCAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACQ=</HashCode>
+      <FileName>Screens\MessageBoxScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.OptionsMenuScreen" Collapsed="true">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBABAAAgAAAQAggAAAgAQAAAAAAABAAAAAAAABIACAA=</HashCode>
+      <FileName>Screens\OptionsMenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.GameOverScreen" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Screens\GameOverScreen.cs</FileName>
+      <NewMemberFileName>Screens\PauseMenuScreen.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.PlayerIndexEventArgs" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Screens\PlayerIndexEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.Enemies.EnemyList" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAABAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies\EnemyList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimatedSprite.AnimatedTexture" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAggAABACAABIAAAANAAAAAABBAAAAgoAAgAEgAAAE=</HashCode>
+      <FileName>Graphics\AnimatedTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScrollingBackground.scrollingBackground">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAkAAAAAIAAgoAIgCAAAIEAAACAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Graphics\scrollingBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.Stages.Stage">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAcAAEAAAABAAAEAAAgAAAAAAAAAIAYAAggQBAACIAA=</HashCode>
+      <FileName>Stages\Stage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParchmentDragon.Stages.Stage1">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAAA=</HashCode>
+      <FileName>Stages\Stage1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ParchmentDragon.EnemyInterface" Collapsed="true">
+    <Position X="19.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAgAAAAIAAAAAAgAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies\EnemyInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ParchmentDragon.ScreenState" Collapsed="true">
+    <Position X="19.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAEAAA=</HashCode>
+      <FileName>ScreenManager\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
